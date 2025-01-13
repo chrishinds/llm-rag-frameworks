@@ -1,6 +1,6 @@
 # Large Language Model Retrevial Augmentated Generation (LLM RAG) for Conversational Agents 
 
-I created this LangChain RAG example as part of an assessment for an Nvidia Deep Learning Institute course on LLMs. It was a fun course! However, I wasn't left feeling very happy with LangChain. It's hard to quantify why, but it feels like the way forward is to create a quick comparative notebook. My intention is to clean up my original LangChain example then code-up some rival implementations, perhaps with LangGraph and/or without any framework. But this is work-in-progress.
+I created this LangChain RAG example as part of an assessment for an Nvidia Deep Learning Institute course on LLMs. It was a fun course! However, I wasn't left feeling very happy with LangChain. It's hard to quantify why, but it feels like the way forward is to create a quick comparative notebook. My intention is to clean up my original LangChain example then code-up some rival implementations, perhaps with LangGraph and/or without any framework. But this is work-in-progress. Code can be found [here](LangChain-RAG.ipynb).
 
 ### Example output from the agent
 
